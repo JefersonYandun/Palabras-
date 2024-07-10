@@ -1,0 +1,22 @@
+{
+  "name": "palabras",
+  "version": "1.0.0",
+  "description": "Poryecto manipulacion de palabras para desplegar Lamnda ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefersonYandun/Palabras-.git"
+  },
+  "author": "Jeferson Yandun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JefersonYandun/Palabras-/issues"
+  },
+  "homepage": "https://github.com/JefersonYandun/Palabras-#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1657.0"
+  }
+}
